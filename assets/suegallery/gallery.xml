@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="740"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Sue Bennett Gallery"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/CountrySideChurch_SueB.jpg"
+	thumbURL="thumbs/CountrySideChurch_SueB.jpg"
+	linkURL="images/CountrySideChurch_SueB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Country Side Church]]></caption>
+  </image>
+  <image imageURL="images/MorningSong_SueB.jpg"
+	thumbURL="thumbs/MorningSong_SueB.jpg"
+	linkURL="images/MorningSong_SueB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Morning Song]]></caption>
+  </image>
+  <image imageURL="images/PetiteChapelle_SueB.jpg"
+	thumbURL="thumbs/PetiteChapelle_SueB.jpg"
+	linkURL="images/PetiteChapelle_SueB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Petite Chapelle]]></caption>
+  </image>
+  <image imageURL="images/RiverStrength_SueB.jpg"
+	thumbURL="thumbs/RiverStrength_SueB.jpg"
+	linkURL="images/RiverStrength_SueB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[River Strength]]></caption>
+  </image>
+  <image imageURL="images/SueBennettCallas.jpg"
+	thumbURL="thumbs/SueBennettCallas.jpg"
+	linkURL="images/SueBennettCallas.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Callas]]></caption>
+  </image>
+  <image imageURL="images/SueBennettCelebrationofHope.jpg"
+	thumbURL="thumbs/SueBennettCelebrationofHope.jpg"
+	linkURL="images/SueBennettCelebrationofHope.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Celebration of Hope]]></caption>
+  </image>
+  <image imageURL="images/SueBennettFlowerMarket.jpg"
+	thumbURL="thumbs/SueBennettFlowerMarket.jpg"
+	linkURL="images/SueBennettFlowerMarket.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Flower Market]]></caption>
+  </image>
+  <image imageURL="images/SueBennettGoldenDays.jpg"
+	thumbURL="thumbs/SueBennettGoldenDays.jpg"
+	linkURL="images/SueBennettGoldenDays.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Golden Days]]></caption>
+  </image>
+  <image imageURL="images/SueBennettHomeis.jpg"
+	thumbURL="thumbs/SueBennettHomeis.jpg"
+	linkURL="images/SueBennettHomeis.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Home Is]]></caption>
+  </image>
+  <image imageURL="images/SueBennettLighhouse.jpg"
+	thumbURL="thumbs/SueBennettLighhouse.jpg"
+	linkURL="images/SueBennettLighhouse.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Lighthouse]]></caption>
+  </image>
+  <image imageURL="images/SueBennettLightandShadow.jpg"
+	thumbURL="thumbs/SueBennettLightandShadow.jpg"
+	linkURL="images/SueBennettLightandShadow.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Light and Shadow]]></caption>
+  </image>
+  <image imageURL="images/SueBennettLookOut.jpg"
+	thumbURL="thumbs/SueBennettLookOut.jpg"
+	linkURL="images/SueBennettLookOut.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Look Out]]></caption>
+  </image>
+  <image imageURL="images/SueBennettMeditation.jpg"
+	thumbURL="thumbs/SueBennettMeditation.jpg"
+	linkURL="images/SueBennettMeditation.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Medidation]]></caption>
+  </image>
+  <image imageURL="images/SueBennettMorning.jpg"
+	thumbURL="thumbs/SueBennettMorning.jpg"
+	linkURL="images/SueBennettMorning.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Morning]]></caption>
+  </image>
+  <image imageURL="images/SueBennettOldItalyRovinj.jpg"
+	thumbURL="thumbs/SueBennettOldItalyRovinj.jpg"
+	linkURL="images/SueBennettOldItalyRovinj.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Old Italy]]></caption>
+  </image>
+  <image imageURL="images/SueBennettPoppyFields.jpg"
+	thumbURL="thumbs/SueBennettPoppyFields.jpg"
+	linkURL="images/SueBennettPoppyFields.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Poppy Fields]]></caption>
+  </image>
+  <image imageURL="images/SueBennettRedPoppy.jpg"
+	thumbURL="thumbs/SueBennettRedPoppy.jpg"
+	linkURL="images/SueBennettRedPoppy.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Red Poppy]]></caption>
+  </image>
+  <image imageURL="images/SueBennettRogueReds.jpg"
+	thumbURL="thumbs/SueBennettRogueReds.jpg"
+	linkURL="images/SueBennettRogueReds.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rogue Reds]]></caption>
+  </image>
+  <image imageURL="images/SueBennettSummerJoys.jpg"
+	thumbURL="thumbs/SueBennettSummerJoys.jpg"
+	linkURL="images/SueBennettSummerJoys.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Summer Joys]]></caption>
+  </image>
+  <image imageURL="images/SueBennettSunriseSunset.jpg"
+	thumbURL="thumbs/SueBennettSunriseSunset.jpg"
+	linkURL="images/SueBennettSunriseSunset.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sunrise, Sunset]]></caption>
+  </image>
+  <image imageURL="images/SueBennettWaitingforOrders.jpg"
+	thumbURL="thumbs/SueBennettWaitingforOrders.jpg"
+	linkURL="images/SueBennettWaitingforOrders.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Waiting for Orders]]></caption>
+  </image>
+  <image imageURL="images/SueBennettWilliamsCoffee.jpg"
+	thumbURL="thumbs/SueBennettWilliamsCoffee.jpg"
+	linkURL="images/SueBennettWilliamsCoffee.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Williams Coffee]]></caption>
+  </image>
+</simpleviewergallery>

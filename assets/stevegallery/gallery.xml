@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="740"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundTransparent="false"
+	useFlash="true"
+	title="Steve Bennett Gallery"
+	galleryStyle="CLASSIC"
+	showOpenButton="false"
+	showFullscreenButton="true"
+
+>
+  <image imageURL="images/BackDay_Steve.jpg"
+	thumbURL="thumbs/BackDay_Steve.jpg"
+	linkURL="images/BackDay_Steve.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Back Day]]></caption>
+  </image>
+  <image imageURL="images/FrenchImpression_SteveB.jpg"
+	thumbURL="thumbs/FrenchImpression_SteveB.jpg"
+	linkURL="images/FrenchImpression_SteveB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[French Impression]]></caption>
+  </image>
+  <image imageURL="images/Memories_SteveB.jpg"
+	thumbURL="thumbs/Memories_SteveB.jpg"
+	linkURL="images/Memories_SteveB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Memories]]></caption>
+  </image>
+  <image imageURL="images/SpringRunoff_SteveB.jpg"
+	thumbURL="thumbs/SpringRunoff_SteveB.jpg"
+	linkURL="images/SpringRunoff_SteveB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Spring Runoff]]></caption>
+  </image>
+  <image imageURL="images/SteveBennettCountryFarm.jpg"
+	thumbURL="thumbs/SteveBennettCountryFarm.jpg"
+	linkURL="images/SteveBennettCountryFarm.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Country Farm]]></caption>
+  </image>
+  <image imageURL="images/SteveBennettCuriousCritters.jpg"
+	thumbURL="thumbs/SteveBennettCuriousCritters.jpg"
+	linkURL="images/SteveBennettCuriousCritters.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Curious Critters]]></caption>
+  </image>
+  <image imageURL="images/SteveBennettFrenchCountryside.jpg"
+	thumbURL="thumbs/SteveBennettFrenchCountryside.jpg"
+	linkURL="images/SteveBennettFrenchCountryside.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Countryside]]></caption>
+  </image>
+  <image imageURL="images/SteveBennettJacksonvilleTrails.jpg"
+	thumbURL="thumbs/SteveBennettJacksonvilleTrails.jpg"
+	linkURL="images/SteveBennettJacksonvilleTrails.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Jacksonville Trails]]></caption>
+  </image>
+  <image imageURL="images/SteveBennettLAnglesMill.jpg"
+	thumbURL="thumbs/SteveBennettLAnglesMill.jpg"
+	linkURL="images/SteveBennettLAnglesMill.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[L'Angles Mill]]></caption>
+  </image>
+  <image imageURL="images/SteveBennettOffHwy31.jpg"
+	thumbURL="thumbs/SteveBennettOffHwy31.jpg"
+	linkURL="images/SteveBennettOffHwy31.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Off Highway 31]]></caption>
+  </image>
+  <image imageURL="images/SteveBennettOldItaly.jpg"
+	thumbURL="thumbs/SteveBennettOldItaly.jpg"
+	linkURL="images/SteveBennettOldItaly.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Old Italy]]></caption>
+  </image>
+  <image imageURL="images/41 AM).jpg"
+	thumbURL="thumbs/41 AM).jpg"
+	linkURL="images/41 AM).jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Vinyard]]></caption>
+  </image>
+  <image imageURL="images/Summer_SteveB.jpg"
+	thumbURL="thumbs/Summer_SteveB.jpg"
+	linkURL="images/Summer_SteveB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Summer]]></caption>
+  </image>
+  <image imageURL="images/TheTrail_SteveB.jpg"
+	thumbURL="thumbs/TheTrail_SteveB.jpg"
+	linkURL="images/TheTrail_SteveB.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Trail]]></caption>
+  </image>
+</simpleviewergallery>
